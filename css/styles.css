@@ -111,6 +111,7 @@ textarea {
    font-family: Garamond;
    font-variant: small-caps;
    }
+
 .gallery {
   opacity: 0.5;
 }
@@ -128,17 +129,6 @@ textarea {
   box-shadow: -5px -5px 5px #888;
   border-width: 15px;
 }
-
-
-
-
-
-
-
-
-
-
-
 
 .hidden {
     display: none !important;
